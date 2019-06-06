@@ -9,6 +9,7 @@ Documentation and info about the app.
 *The app coded to be used as an arithmetic calculator <br>
 *the app uses cookies as away to store data being used by the browser in this case we have string representation of simple arithmetic calculation.<br>
 *Multiple browser sessions show the data being persistent and logged after each user on a browser finishes a calculation (check the demo1 GIFs down bellow).<br>
-*Both user are able to the see the calculation being logged as they are finished.<br>
+*Both users are able to  see the calculation being logged as they are finished.<br>
 *The app logs only 10 most recent logged calculations(check the demo2 GIF bellow)<br>
 
+# Demo 1 shows how calculation Calculations are being logged on two browser sessions.   
