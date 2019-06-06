@@ -13,3 +13,5 @@ Documentation and info about the app.
 *The app logs only 10 most recent logged calculations(check the demo2 GIF bellow)<br>
 
 # Demo 1 shows how calculation are being logged on two browser sessions.   
+
+<img src=https://raw.githubusercontent.com/lazarAdam/Calculator-App/master/data/demo1.gif>
