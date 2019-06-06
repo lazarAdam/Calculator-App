@@ -12,4 +12,4 @@ Documentation and info about the app.
 *Both users are able to  see the calculation being logged as they are finished.<br>
 *The app logs only 10 most recent logged calculations(check the demo2 GIF bellow)<br>
 
-# Demo 1 shows how calculation Calculations are being logged on two browser sessions.   
+# Demo 1 shows how calculation are being logged on two browser sessions.   
