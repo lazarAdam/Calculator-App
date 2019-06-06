@@ -17,4 +17,4 @@ Documentation and info about the app.
 <img src=https://raw.githubusercontent.com/lazarAdam/Calculator-App/master/data/demo1.gif>
 
 # Demo 2 shows the app keeping only the 10 most recent calculations.
-<img ser=https://raw.githubusercontent.com/lazarAdam/Calculator-App/master/data/demo2.gif>
+<img src=https://raw.githubusercontent.com/lazarAdam/Calculator-App/master/data/demo2.gif>
