@@ -15,3 +15,6 @@ Documentation and info about the app.
 # Demo 1 shows how calculation are being logged on two browser sessions.   
 
 <img src=https://raw.githubusercontent.com/lazarAdam/Calculator-App/master/data/demo1.gif>
+
+# Demo 2 shows the app keeping only the 10 most recent calculations.
+<img ser=https://raw.githubusercontent.com/lazarAdam/Calculator-App/master/data/demo2.gif>
